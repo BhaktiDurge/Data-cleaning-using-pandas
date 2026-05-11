@@ -1,0 +1,17 @@
+CustomerID,Age,Gender,City,AnnualIncome,SpendingScore,OrderAmount,PaymentMode,MembershipLevel,PurchaseDate
+101,25,Male,Pune,450000,65,1200,Credit Card,Gold,2023-01-12
+102,,Female,Mumbai,550000,70,1500,Debit Card,Silver,2023-01-15
+103,35,Male,Delhi,,80,2500,Cash,Gold,2023-02-01
+104,42,Female,Pune,720000,85,99999,Credit Card,Platinum,2023-02-10
+105,29,Female,,480000,60,1300,UPI,Bronze,2023-02-18
+106,150,Male,Bangalore,650000,95,1800,Credit Card,Gold,2023-03-05
+107,38,Male,Mumbai,620000,,1700,Debit Card,Silver,2023-03-12
+108,27,Female,Pune,450000,55,1200,UPI,Bronze,2023-03-20
+108,27,Female,Pune,450000,55,1200,UPI,Bronze,2023-03-20
+109,31,Male,Delhi,520000,65,1400,Cash,Silver,2023-03-28
+110,,Female,Bangalore,580000,72,1600,Credit Card,Gold,
+111,45,Male,Mumbai,800000,90,2000,Debit Card,Platinum,2023-04-05
+112,22,Female,Pune,300000,40,500,Cash,Bronze,2023-04-10
+113,NaN,Male,Delhi,10000000,100,50000,Credit Card,Platinum,2023-04-18
+114,34,Other,Pune,510000,68,1450,UPI,Silver,2023-04-25
+115,28,Female,Mumbai,480000,60,1300,Debit Card,Silver,2023-05-01

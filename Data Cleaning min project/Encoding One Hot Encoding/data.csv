@@ -1,0 +1,13 @@
+CustomerID,EducationLevel,Experience,SubscriptionType,PaymentScore,City,Churn,Gender
+201,Graduate,3 years,Basic,4,Mumbai,Yes,Female
+202,12th,2 yrs,Premium,5,Delhi,No,Male
+203,Post Graduate,Five,Standard,3,Bangalore,Yes,Female
+204,UG,1 year,Basic,Two,Delhi,No,Male
+205,Graduate,,Premium,5,Mumbai,Yes,Male
+206,10th,0,Standard,1,Chennai,No,Male
+207,PhD,7 yrs,BASIC,4,Pune,Yes,Female
+208,graduate,three,standard,3,Hyderabad,No,Male
+209,,4 years,Gold,6,Bangalore,Yes,Female
+210,Diploma,2,Basic,,Delhi,No,Male
+211,12,1 yr,Premium,4,Chennai,Yes,Male
+212,Post-Graduate,Ten,Standard,Two,Pune,No,Female

@@ -1,0 +1,11 @@
+customer_id,name,age,gender,join_date,monthly_income,subscription_status,rating
+101,Aarav,25,Male,2023-01-15,45000,Active,4.5
+102,Diya,twenty-two,Female,15/02/2023,38000,active,4
+103,Rohan,29,M,2023/03/10,52000,Inactive,3.8
+104,Isha,,F,2023-04-05,NaN,Active,Five
+105,Arjun,31,Male,05-05-2023,61000,inactive,4.2
+106,Meera,27,Female,2023-06-18, 47000 ,Active,4.0
+107,Kabir,Thirty,Male,2023-07-22,54000,ACTIVE,5five
+108,Anaya,24,Female,2023-08-30,not_available,Active,four
+109,Vivaan,28,Male,2023-09-12,50000,Inactive,
+110,Saanvi,26,Female,2023-10-01,48k,active,3.5stars
